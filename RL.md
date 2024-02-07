@@ -48,3 +48,19 @@
 1. 전체를 다 모른다는 것(limited information)
 1. 세상이 변할 수 있다는 것(nonstationary)
 1. 세상이 확률적이라는 것(stochastic)
+
+### DAVID SILVER
+- DeepMind x UCL Lecture
+
+
+### Learning and Planning
+- sequential decision making
+- Reinforcement Learning
+    - the environment is initially unknow
+    - the agent interacts with the environment
+    - the agent improvies its policy
+- Planning
+    - A model of the environment is know
+    - the agent performs computations with its model
+
+### Dynamic programming
