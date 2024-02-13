@@ -7,6 +7,12 @@
 ## What is an action in a GPT?
 - GPT action flow
 - Open API
+### Product Descriptions 
+If have a product or service and are using ChatGPT mainly for work around this product (ideation, brainstorming, content), then it could be very useful to add context for this product into the custom instructions box.
+
+You can use this product canvas as a template:
+
+![framework template](images/products.png)
 
 ## 
 - The market outlook for tricycles is
